@@ -18,6 +18,7 @@
 </p>
 
 <br>
+
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Python.
@@ -27,12 +28,15 @@
 - 📫 &nbsp; How to reach me: **hivirajkadam@gmail.com**.
 - 📝 &nbsp; Checkout my [Website](https://virajkadam.com).
 
+<br>
+
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
+<br>
 
 ### <b>🧑‍🚀 Open Source Projects:</b>
   <table>
@@ -48,7 +52,7 @@
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/virajkadam/php-search-all-database"><b>🚀 PHP Search All Database</b></a></td>
+	<td><a href="https://github.com/virajkadam/php-search-all-database"><b>🚀 PHP Search All Database</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/virajkadam/php-search-all-database?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/virajkadam/php-search-all-database?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/virajkadam/php-search-all-database?style=flat-square"/></td>
@@ -57,8 +61,6 @@
       </tr>
     </tbody>
   </table>
-
-<br>
 <br>
 
 <h2 align="center">🤝 Support</h2>
