@@ -12,9 +12,8 @@
 
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=virajkadam&show_icons=true&locale=en" alt="virajkadam_stats">
-     &nbsp; 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=virajkadam&" alt="virajkadam_stats">
+<img src="https://github-readme-stats.vercel.app/api?username=virajkadam&show_icons=true&locale=en">&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=virajkadam&">
 </p>
 
 <br>
@@ -24,7 +23,7 @@
 - 🛠 &nbsp; I’m currently working with Python.
 - 🚀 &nbsp; I’m currently learning Data science with python.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/virajkadam).
-- 💬 &nbsp; Ask me about anything [here](https://VirajKadam.com)! I am happy to help.
+- 💬 &nbsp; Ask me about anything at my [Issues Page](https://github.com/virajkadam/virajkadam/issues)! I am happy to help.
 - 📫 &nbsp; How to reach me: **hivirajkadam@gmail.com**.
 - 📝 &nbsp; Checkout my [Website](https://virajkadam.com).
 
