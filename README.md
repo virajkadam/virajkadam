@@ -11,12 +11,22 @@
 <br>
 
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=virajkadam&show_icons=true&locale=en">&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=virajkadam&">
-</p>
 
+<br></br>
+<table align="center">
+    <tbody>
+      <tr>
+        <td rowspan=4>
+		<img src="https://github-readme-stats.vercel.app/api?username=virajkadam&show_icons=true&locale=en">
+        </td>
+        <td rowspan=4>
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=virajkadam&">
+        </td>
+      </tr>
+    </tbody>
+</table>
 <br>
+
 
 ### Talking about Personal Stuffs:
 
@@ -45,7 +55,6 @@
         <td><b>🌟 Stars</b></td>
         <td><b>🍴 Forks</b></td>
         <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
         <td><b>👨‍💻 Language</b></td>
       </tr>
     </thead>
@@ -55,7 +64,6 @@
         <td><img alt="Stars" src="https://img.shields.io/github/stars/virajkadam/php-search-all-database?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/virajkadam/php-search-all-database?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/virajkadam/php-search-all-database?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/virajkadam/php-search-all-database?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/virajkadam/php-search-all-database?style=flat-square"/></td>
       </tr>
     </tbody>
