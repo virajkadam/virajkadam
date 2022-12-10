@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Viraj Kadam</h1>
+<h1>Hi, I'm Viraj Kadam</h1>
 <h3>A Passionate Technology Learner & Educator from India</h3>
 <h5><i>⚡️ Never trust people who don’t write SQL queries in uppercase ⚡️</i></h5>
 <br>
@@ -35,7 +35,7 @@
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/virajkadam).
 - 💬 &nbsp; Ask me about anything at my [Issues Page](https://github.com/virajkadam/virajkadam/issues)! I am happy to help.
 - 📫 &nbsp; How to reach me: **hivirajkadam@gmail.com**.
-- 📝 &nbsp; Checkout my [Website](https://virajkadam.com).
+- 📝 &nbsp; Checkout my [virajkadam.com](https://virajkadam.com).
 
 <br>
 
