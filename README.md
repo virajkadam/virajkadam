@@ -28,20 +28,20 @@
 <br>
 
 
-### Talking about Personal Stuffs:
+### Talking about Personal Stuff:
 
 - 🛠 &nbsp; I’m currently working with Python.
-- 🚀 &nbsp; I’m currently learning Data science with python.
+- 🚀 &nbsp; I’m currently learning Data Science with Python.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/virajkadam).
 - 💬 &nbsp; Ask me about anything at my [Issues Page](https://github.com/virajkadam/virajkadam/issues)! I am happy to help.
 - 📫 &nbsp; How to reach me: **hivirajkadam@gmail.com**.
-- 📝 &nbsp; Checkout my [virajkadam.com](https://virajkadam.com).
+- 📝 &nbsp; Checkout [virajkadam.com](https://virajkadam.com).
 
 <br>
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 💻 &nbsp; I love exploring new tech stacks and building cool stuff.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
