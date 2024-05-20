@@ -20,7 +20,7 @@
 		<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=virajkadam&show_icons=true&locale=en">
         </td>
         <td rowspan=4>
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=virajkadam&">
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=virajkadam">
         </td>
       </tr>
     </tbody>
