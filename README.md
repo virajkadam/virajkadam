@@ -19,9 +19,9 @@
         <td rowspan=4>
 		<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=virajkadam&show_icons=true&locale=en">
         </td>
-        <td rowspan=4>
+<!--         <td rowspan=4>
 		<img src="https://github-readme-streak-stats.herokuapp.com/?user=virajkadam">
-        </td>
+        </td> -->
       </tr>
     </tbody>
 </table>
