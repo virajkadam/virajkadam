@@ -8,28 +8,18 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/hivirajkadam)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/hivirajkadam/)
 <img src="https://komarev.com/ghpvc/?username=virajkadam&label=Profile%20views&color=0e75b6&style=flat" alt="virajkadam_github_views">
-<br>
-
-
-
-<br></br>
+<br><br>
 <table align="center">
     <tbody>
       <tr>
         <td rowspan=4>
 		<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=virajkadam&show_icons=true&locale=en">
         </td>
-<!--         <td rowspan=4>
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=virajkadam">
-        </td> -->
       </tr>
     </tbody>
 </table>
-<br>
-
 
 ### Talking about Personal Stuff:
-
 - 🛠 &nbsp; I’m currently working with Python.
 - 🚀 &nbsp; I’m currently learning Data Science with Python.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/virajkadam).
@@ -37,13 +27,8 @@
 - 📫 &nbsp; How to reach me: **hivirajkadam@gmail.com**.
 - 📝 &nbsp; Checkout [virajkadam.com](https://virajkadam.com).
 
-<br>
-
 ### My Absolute Favorites:
-
 - 💻 &nbsp; I love exploring new tech stacks and building cool stuff.
-
-<br>
 
 ### <b>🧑‍🚀 Open Source Projects:</b>
   <table>
@@ -66,7 +51,6 @@
       </tr>
     </tbody>
   </table>
-<br>
 
 <h2 align="center">🤝 Support</h2>
 <p align="center">🎀 Contributions, 🔥 issues, and 🥮 feature requests are most welcome!</p>
