@@ -1,60 +1,202 @@
-<h1>Hi, I'm Viraj Kadam</h1>
-<h3>A Passionate Technology Learner & Educator from India</h3>
-<h5><i>⚡️ Never trust people who don’t write SQL queries in uppercase ⚡️</i></h5>
-<br>
+# 👋 Hey, I'm Viraj Kadam
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/hivirajkadam)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://virajkadam.in)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/hivirajkadam)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/hivirajkadam/)
-<img src="https://komarev.com/ghpvc/?username=virajkadam&label=Profile%20views&color=0e75b6&style=flat" alt="virajkadam_github_views">
-<br><br>
-<table align="center">
-    <tbody>
-      <tr>
-        <td rowspan=4>
-		<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=virajkadam&show_icons=true&locale=en">
-        </td>
-      </tr>
-    </tbody>
-</table>
+```python
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Viraj Kadam"
+        self.role = "Software Engineer • Builder • Tech Enthusiast"
+        self.focus = ["Python", "AI/ML", "Data Science", "Backend Engineering"]
+        self.os = "Ubuntu 🐧"
+        self.currently_learning = "Data Science with Python"
+        self.mindset = "Build → Break → Learn → Ship → Repeat"
+```
 
-### Talking about Personal Stuff:
-- 🛠 &nbsp; I’m currently working with Python.
-- 🚀 &nbsp; I’m currently learning Data Science with Python.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/virajkadam).
-- 💬 &nbsp; Ask me about anything at my [Issues Page](https://github.com/virajkadam/virajkadam/issues)! I am happy to help.
-- 📫 &nbsp; How to reach me: **hivirajkadam@gmail.com**.
-- 📝 &nbsp; Checkout [virajkadam.in](https://virajkadam.in).
+### 🧠 About Me
 
-### My Absolute Favorites:
-- 💻 &nbsp; I love exploring new tech stacks and building cool stuff.
+* 🐍 Writing Python, designing APIs, and building backend systems.
+* 📊 Currently diving deeper into **Data Science, Machine Learning & AI**.
+* 🧪 I enjoy turning ideas into working prototypes and production systems.
+* ⚡ Interested in **AI, automation, quantitative systems, scalable architectures & open source**.
+* 🐧 Proudly running **Linux / Ubuntu**.
+* 🛠️ I prefer building things over just talking about them.
+* 🚀 Always experimenting with a new framework, library, model, or crazy idea.
 
-### <b>🧑‍🚀 Open Source Projects:</b>
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-	<td><a href="https://github.com/virajkadam/php-search-all-database"><b>🚀 PHP Search All Database</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/virajkadam/php-search-all-database?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/virajkadam/php-search-all-database?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/virajkadam/php-search-all-database?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/virajkadam/php-search-all-database?style=flat-square"/></td>
-      </tr>
-    </tbody>
-  </table>
+---
 
-<h2 align="center">🤝 Support</h2>
-<p align="center">🎀 Contributions, 🔥 issues, and 🥮 feature requests are most welcome!</p>
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
-<p align="center">Made with ❤️ in India</p>
+## ⚙️ Tech Stack
 
-<h1 align="center">⚡️ <i>Stay Awesome</i> ⚡️</h1>
+```text
+Languages       → Python • PHP • JavaScript • SQL • Go
+Backend         → Django • FastAPI • Flask • Laravel
+Frontend        → React • Bootstrap • Tailwind
+Databases       → PostgreSQL • MySQL • MongoDB
+DevOps          → Docker • Kubernetes • GitHub Actions • Nginx
+Cloud            → AWS • GCP • Azure
+AI / ML         → NumPy • Pandas • Scikit-learn • LLMs • RAG
+Data             → Pandas • Matplotlib • Data Analysis • Backtesting
+Tools            → Git • Linux • VS Code • Postman
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=virajkadam&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajkadam&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=virajkadam&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/virajkadam/virajkadam/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+## 📈 Developer Metrics
+
+| Metric                 | Status                                |
+| ---------------------- | ------------------------------------- |
+| 🧑‍💻 Primary Language | Python                                |
+| 🐧 Daily Driver        | Ubuntu Linux                          |
+| 🧠 Current Focus       | Data Science + AI/ML                  |
+| ⚙️ Backend             | Django / FastAPI / Flask              |
+| 🗄️ Databases          | PostgreSQL / MySQL / MongoDB          |
+| ☁️ Cloud               | AWS / GCP / Azure                     |
+| 🐳 Containers          | Docker                                |
+| 🔄 CI/CD               | GitHub Actions                        |
+| 📊 Data                | Pandas / NumPy / ML                   |
+| 🚀 Interests           | AI • Automation • Quant • Open Source |
+
+---
+
+## 🔬 Currently Exploring
+
+```yaml
+learning:
+  - Data Science
+  - Machine Learning
+  - Generative AI
+  - Large Language Models
+  - RAG Systems
+
+building:
+  - AI-powered applications
+  - Automation systems
+  - Quantitative trading systems
+  - Developer tools
+
+researching:
+  - LLMs
+  - AI Agents
+  - High-performance systems
+  - Open Source AI
+```
+
+---
+
+## 🧑‍🚀 Open Source Projects
+
+> A collection of experiments, production projects, developer tools and ideas.
+
+### 🚀 Featured Projects
+
+**🔹 [Project Name]**
+Short description of what the project does and the problem it solves.
+
+`Python` `Django` `Docker` `PostgreSQL`
+
+---
+
+**🔹 [Project Name]**
+Another interesting project, experiment or open-source contribution.
+
+`Python` `AI/ML` `FastAPI`
+
+---
+
+**🔹 [Project Name]**
+Something experimental, weird or technically interesting.
+
+`Python` `Automation` `Linux`
+
+---
+
+## 🧩 Things I Like Building
+
+```text
+                 ┌─────────────────────┐
+                 │       IDEAS         │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │      PROTOTYPE      │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │       CODE          │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │       TEST          │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │       SHIP 🚀       │
+                 └─────────────────────┘
+```
+
+---
+
+## 💬 Let's Talk Tech
+
+Interested in:
+
+* 🐍 Python & Backend Engineering
+* 🤖 AI / ML / LLMs
+* 📊 Data Science
+* 🧠 AI Agents & RAG
+* ⚡ Performance & Scalability
+* 📈 Quantitative Trading
+* 🐧 Linux & Open Source
+* 🚀 Startups & Product Engineering
+
+Have an interesting problem?
+
+**Open an issue → let's build something.**
+
+---
+
+## 🌐 Find Me
+
+* 💻 GitHub: [github.com/virajkadam](https://github.com/virajkadam)
+* 🌎 Website: [virajkadam.in](https://virajkadam.in)
+* 📫 Email: **[hivirajkadam@gmail.com](mailto:hivirajkadam@gmail.com)**
+* 💬 Questions / Ideas: [GitHub Issues](https://github.com/virajkadam/virajkadam/issues)
+
+---
+
+### 🧠 Philosophy
+
+```text
+"Learn deeply.
+Build relentlessly.
+Automate everything.
+Share what you learn.
+Stay curious."
+```
+
+<p align="center">
+  <b>⚡ Code. Learn. Build. Repeat. ⚡</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=virajkadam&style=flat-square&color=blue" alt="Profile views"/>
+</p>
