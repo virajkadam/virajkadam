@@ -100,35 +100,6 @@ researching:
   - Open Source AI
 ```
 
----
-
-## 🧑‍🚀 Open Source Projects
-
-> A collection of experiments, production projects, developer tools and ideas.
-
-### 🚀 Featured Projects
-
-**🔹 [Project Name]**
-Short description of what the project does and the problem it solves.
-
-`Python` `Django` `Docker` `PostgreSQL`
-
----
-
-**🔹 [Project Name]**
-Another interesting project, experiment or open-source contribution.
-
-`Python` `AI/ML` `FastAPI`
-
----
-
-**🔹 [Project Name]**
-Something experimental, weird or technically interesting.
-
-`Python` `Automation` `Linux`
-
----
-
 ## 🧩 Things I Like Building
 
 ```text
