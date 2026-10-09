@@ -13,13 +13,13 @@ class SoftwareEngineer:
 
 ### 🧠 About Me
 
-* 🐍 Writing Python, designing APIs, and building backend systems.
-* 📊 Currently diving deeper into **Data Science, Machine Learning & AI**.
-* 🧪 I enjoy turning ideas into working prototypes and production systems.
-* ⚡ Interested in **AI, automation, quantitative systems, scalable architectures & open source**.
-* 🐧 Proudly running **Linux / Ubuntu**.
-* 🛠️ I prefer building things over just talking about them.
-* 🚀 Always experimenting with a new framework, library, model, or crazy idea.
+🐍 Writing Python, designing APIs, and building backend systems.
+📊 Currently diving deeper into **Data Science, Machine Learning & AI**.
+🧪 I enjoy turning ideas into working prototypes and production systems.
+⚡ Interested in **AI, automation, quantitative systems, scalable architectures & open source**.
+🐧 Proudly running **Linux / Ubuntu**.
+🛠️ I prefer building things over just talking about them.
+🚀 Always experimenting with a new framework, library, model, or crazy idea.
 
 ---
 
